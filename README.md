@@ -1,0 +1,1 @@
+This project is a simple audio plugin built using C++ and the JUCE framework.
